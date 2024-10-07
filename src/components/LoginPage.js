@@ -27,6 +27,7 @@ function LoginPage() {
                         <div className="myform-button">
                             <button type="submit" className="myform-btn">Login</button>
                         </div>
+                        <h4>USER NAME ACCEPTS ONLY MAIL ID</h4>
                     </form>
                     <div className="signup-text">
                         <span>Don't have an account? </span>
